@@ -79,6 +79,7 @@ here, game by game: `sample/README.md`.
 |---|---|
 | `sample/NBA_World_Opening_Closing_Odds_2008-2026_SAMPLE.csv` | the 20 games, 182 columns |
 | `sample/README.md` | why each game is here, then the README of the full product |
+| `matchup_stats_sample/` | the same 20 games in NBA Matchup & Stats: game sheets, team and player box scores, inactive players (4 CSV + README) |
 | `NBA_World_Verify_Before_You_Buy.ipynb` | the figures of the listing and of its README recomputed from the full file (all the file can show), results shown |
 
 ---
@@ -155,6 +156,8 @@ corrected tip-off times, the 145 Pinnacle closes taken from a second record):
 
 Once a year, after the Finals, the file adds the completed season. The games after 31 October 2026 come with the
 [NBA World Books monthly updates](https://sportsdataolivier.gumroad.com/l/konvk?utm_source=github&utm_medium=readme&utm_campaign=nba_world&utm_content=monthly): each month's games, same 182 columns, ready to append.
+
+The box score behind each game is sold separately: [NBA Matchup & Stats](https://sportsdataolivier.gumroad.com/l/nnadkm?utm_source=github&utm_medium=readme&utm_campaign=nba_world&utm_content=matchup) (also on [Whop](https://whop.com/oliviersportsdata/nba-matchup-stats-game-sheets-box-scores-2008-2026/?utm_source=github&utm_medium=readme&utm_campaign=nba_world&utm_content=matchup_whop)): game sheets, team and player box scores and inactive players since 2008-09, on the same Game_ID. Its 20-game sample is in `matchup_stats_sample/`.
 
 → **[Get the full archive](https://sportsdataolivier.gumroad.com/l/oeuoto?utm_source=github&utm_medium=readme&utm_campaign=nba_world&utm_content=footer)** · also on [Whop](https://whop.com/oliviersportsdata/nba-opening-closing-odds-pinnacle-7-world-books-2008-2026/?utm_source=github&utm_medium=readme&utm_campaign=nba_world&utm_content=whop_footer)
 
